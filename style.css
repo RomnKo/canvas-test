@@ -1,0 +1,22 @@
+body {
+  background: #456;
+  color: #fff;
+  padding-bottom: 50px;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+}
+
+#canvas-paths, #canvas-arcs, #canvas-animations, #canvas-character {
+  /* background: #789; */
+  border: 2px solid #789;
+  margin: 25px auto;
+  display: block;
+  border-radius: 10px;
+}
+
+#cat {
+  display: none;
+}
